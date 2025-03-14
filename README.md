@@ -25,3 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=princetadhani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+  ![snake gif](https://github.com/princetadhani/princetadhani/blob/output/github-snake-dark.svg)
+</div>
